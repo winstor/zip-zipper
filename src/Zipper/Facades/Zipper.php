@@ -1,6 +1,6 @@
 <?php
 
-namespace Winsotr\Zipper\Facades;
+namespace Winstor\Zipper\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
